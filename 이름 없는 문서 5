@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>여행가자</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1><a href="index.html">여행홈페이지개설</a></h1>
+    <ol>
+      <li><a href="목적.html">개설목적</a></li>
+      <li><a href="대상.html">대상</a></li>
+      <li><a href="전체.html">전체계획</a></li>
+      <li><a href="세부.html">세부계획</a></li>
+    </ol>
+
+
+
+    <h3>전체계획</h3>
+    <p>여행홈페이지를 통해 지역을 선택후 핫플레이스와 숨은 맛집을 소개시켜준다. 해시태그를 통해 개인의 성향에 맞게 찾을 수 있게한다. 크게 지역선택, 볼거리,담기기능(숙소와 장소) 각지역과 볼거리에 여행자 후기와 에디터 후기를 남길 수 있게 한다. 계절과 축제등을 젊은 감성에 따라 보여줄 수 있게 한다.</p>
+    
+   
+    <script src="script.js"></script>
+  </body>
+</html>

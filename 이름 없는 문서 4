@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>여행가자</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1><a href="index.html">여행홈페이지개설</a></h1>
+    <ol>
+      <li><a href="목적.html">개설목적</a></li>
+      <li><a href="대상.html">대상</a></li>
+      <li><a href="전체.html">전체계획</a></li>
+      <li><a href="세부.html">세부계획</a></li>
+    </ol>
+
+    
+    <h3>세부계획</h3>
+    <p><ol>
+    <li>1.지역과 테마를 따로 검색 할 수 있게 한다.</li>
+    <li>2.지역선택 후 지역 소개에 관한 화려한 광고로 방문자의 기대감을 향상시킨다.</li>
+    <li>3.볼거리 창에 유명하거나 숨은 곳에 관한 사진과 정보를 올린다.</li>
+    <li>4.한 곳에 들어가면 가까운 곳이나 숙소,식당을 추천해주는 칸을 만든다.</li>
+    <li>5. 많은사람들과 여행자들이 추천한 곳을 중심으로 후기와 추천을 남긴다.</li>
+    <li>6.여행자들의 참여는 찍은사진을 포토북으로 만들어서 선물한다.</li>
+    <li>7.맛집 숙소 등을 보여주고 제휴사이트를 통해 결제할수있게한다. 담기 기능을 통해 동선을 짤 수 있다.</li><ol></p>
+
+   
+    
+    <script src="script.js"></script>
+  </body>
+</html>

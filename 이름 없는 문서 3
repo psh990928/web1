@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>여행가자</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1><a href="index.html">여행홈페이지개설</a></h1>
+    <ol>
+      <li><a href="목적.html">개설목적</a></li>
+      <li><a href="대상.html">대상</a></li>
+      <li><a href="전체.html">전체계획</a></li>
+      <li><a href="세부.html">세부계획</a></li>
+    </ol>
+
+    <h3>배경느낌</h3>
+    <img src="sea.jpg" width="100%">
+    <p>바다가 참이쁘구나</p>
+    
+    <script src="script.js"></script>
+  </body>
+</html>
